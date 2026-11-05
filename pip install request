@@ -1,1 +1,1 @@
-pip install request instagrapi
+pip install flask request 
