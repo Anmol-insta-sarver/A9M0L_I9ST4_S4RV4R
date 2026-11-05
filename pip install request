@@ -1,1 +1,1 @@
-pip install instagrapi request 
+pip install request instagrapi
